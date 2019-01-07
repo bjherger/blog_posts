@@ -20,9 +20,8 @@ Establish credibility
 
 Opportunity
 
- - Difficult market
- - Highly valued skill set
- - Highly mobile workforce
+ - No one wants to be Blockbuster
+ - DS value add
  
 Steps
 
@@ -37,3 +36,4 @@ Lessons learned
  - Value tribal knowledge
  - Embedded vs monolith
  - Allow for growth and exploration
+ - Project planning
