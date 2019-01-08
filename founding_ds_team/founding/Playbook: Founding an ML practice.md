@@ -1,29 +1,34 @@
-# Playbook: Founding an ML practice
+# Playbook: Founding a Data Science practice
 
-tl;dr: TODO
+tl;dr: Data Science is transforming corporate America, and bringing your company into the revolution is easier than 
+you might think. 
 
 As part of his company's transformation to a technology company, Capital One's founder and CEO Rich Fairbank 
-identified the need to found a Machine Learning center of excellence. I was very fortunate to co-found that center of
- excellence, and I've learned a few things from the experience.
+identified the need to found a Machine Learning center of excellence. The word 'pioneering' is rarely associated with
+ banks, but this unique move has helped prevent the bank from going the way of Blockbuster.  
+
+I was very fortunate to co-found that center of excellence, and I've learned a few things from the experience, as 
+well as my experiences building and advising start ups, and teaching Data Science at Fortune 100 companies.  
 
 ## Opportunity
 
 I won't beat around the bush: Data Science is ["The Sexiest Job of the 21st Century"](https://hbr
-.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century). Perhaps more importantly, bringing on Data 
-Scientists is also one of the most valuable investments a company can make. 
+.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century). Perhaps more importantly, building a Data 
+Science practice is also one of the most valuable investments a company can make. 
 
-No one wants to be Blockbuster; and no one wants to be left in the dust of the data revolution. This is why leaders 
-like AirBnB, Facebook and Google are hiring data scientists at breakneck speeds, and Data Scientists to every 
-engineering team. 
+No one wants to be Blockbuster or any of the other pre-internet relics; and no one wants to be left in the dust of the 
+data revolution. This is why leaders like AirBnB, Facebook and Google are hiring data scientists at breakneck speeds, 
+and attaching Data Scientists to every engineering team. 
 
 These hires aren't for vanity; machine learning is [transforming corporate America](http://fortune
-.com/ai-artificial-intelligence-deep-machine-learning/), with highly visible wins including AI assistants, driver-less
- cars, and machine translation leading the way for less visible wins (like 
- [authorization fraud](https://stripe.com/us/radar) and [AirBnB's search](https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f))
+.com/ai-artificial-intelligence-deep-machine-learning/), with highly visible (and lucrative )wins including AI 
+assistants, driver-less cars, and machine translation leading the way for less visible wins (like 
+[authorization fraud](https://stripe.com/us/radar) and 
+[relevant search](https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f))
 
 ## Steps
 
-TODO intro 
+Every company is unique, but below is a battle tested playbook for getting a Data Science practice off the ground.   
 
 ### Get support
 
@@ -40,11 +45,11 @@ ideas as data science problems, this backlog will help prioritize hiring and fir
 ### Hire
 
 Now that we have support and potential projects, you can start hiring. We'll cover hiring in-depth in a future blog 
-post, but this might be the most difficult part of the journey: Data Scientists are greatly in demand. Moreover, 
-those with experience forging a team likely know their market value, and can afford to be picky. 
+post, but this might be the most difficult part of the journey: Data Scientists are greatly in demand. Moreover, those 
+with experience forging a team likely know their market value, and can afford to be picky. 
 
 To get candidates in the funnel, I'd recommend generating organic leads through Meetup groups and conferences 
-(but really conference receptions). Sources and hiring agencies can be worth while, but form emails are easy to 
+(and conference receptions). Sources and hiring agencies can be worth while, but form emails are easy to 
 ignore in a hot market. A quick survey of DS friends suggest we receive an average of 30 recruiter messages a week, 
 and it's hard to stand out in that chaos.   
 
@@ -59,7 +64,7 @@ keeping your A-team up-to-date and mentally challenged.
 
 ### Form team
 
-Once you've got your motley crew together, it's important to build a strong foundation for your forming team. 
+Once you've got your motley crew together, it's important to build a strong foundation for your growing team. 
 
 Data Scientists uniquely come from a variety of backgrounds and practices, and might come to the table with a (wide) 
 diversity of skills, work flows and preferred tools. Have conversations early and often about best practices, and 
@@ -67,21 +72,21 @@ what team members can expect from each other. If you subscribe to the Agile or S
 indoctrinate. 
 
 Nothing forms a team quite like a shared crucible: If there's a particularly high-value, low-effort project in your 
-backlog, this will help your team learn how to work together while gaining everyone some visibility within the 
-company. Otherwise, data engineering and data lake projects could enable many more Data Science projects, and help 
+backlog, take it on. This will help your team learn how to work together while gaining visibility within the company. 
+Otherwise, data engineering and data lake projects could lay the groundwork many more Data Science projects, and help 
 your team get familiar with their new data. 
 
 After you get your footing with your first few projects, begin talking about what your standard workflow looks like, 
 libraries and infrastructure you'd like to build, and the cost of technical debt.
 
 I'd also recommend scheduling monthly happy hours or other fun events. It's important for teammates to trust each 
-other, and get to know each other out of the office. Also, your new hires are probably getting recruiter calls 
+other, and get to know each other out of the office. Also, your new hires are probably getting LinkedIn messages
 already, and beers are less expensive recruiting. 
 
 ### Bring value
 
 Alright, now we've got a strong team of Data Scientists, who've proven themselves with some minor projects. On this 
-foundation, you can start earning the support and buy-in your leadership has invested in you. 
+foundation, you can start earning the support and buy-in your leadership has loaned. 
 
 Though you might have done a few initial projects, your first major project will help to define your team, and your 
 team's role within the company. Choose a major project that can be done in milestones, provides a high visibility 
@@ -101,34 +106,39 @@ Before you go and conquer the world, there are a few last lessons learned that m
 ### Augment, not replace
 
 It's easy to fear being replaced by the machines. Before calling the old staff luddites, help them to realize that 
-in general, your team will augment and streamline their role, rather than replace it. Most of my data science 
+in general, your team will augment and streamline their role, rather than replace them. Most of my data science 
 projects have alleviated the boring part of other's roles, and allowed them to leverage their specialized 
-skill sets. For example, a recent project allowed lawyers to spend less time sorting mail, and more time practicing 
-law. Another great case study was security analysts to spend more time evaluating trends, and less time scrolling 
-through email logs. 
+skill sets. 
+
+For example, a recent project allowed lawyers to spend less time sorting mail, and more time practicing law. Another 
+great case study was security analysts to spend more time evaluating trends, and less time scrolling through email logs. 
 
 ### Tribal knowledge
 
-While Data Science is the hot new skillset, there's still a lot of value in the domain (tribal) knowledge your 
+While Data Science is the hot new skill set, there's still a lot of value in the domain (tribal) knowledge your 
 company has built up. Whether it's knowing that `cdt` really means `charge_off_date`, or that the company's proxy 
 requires voodoo witchcraft to work, there's a lot that the existing staff can teach your new team. Embrace this help,
- don't fight it.  
+ don't fight it.
+ 
+Just as your peers are learning about Data Science from you and your team, find ways to learn from the old guard. 
 
 ### Embedded vs monolith
 
 One of the largest ongoing discussions in the Data Science (other than 
 [tabs vs. spaces](https://www.businessinsider.com/tabs-vs-spaces-from-silicon-valley-2016-5)) is whether data science
 teams should be embedded (with data scientists on each product team) or monolithic (with all data scientists on one
-team). Embedded data science teams allow data scientists to build product knowledge and specialization, and the data 
-scientists' goals aligned with product goals. Monolithic data science teams make standardized workflows and 
-skillsets, provide Data Scientists with a brain trust of peers. 
+team). 
 
-A popular approach get's the best of both worlds by hiring Data Scientists into a Data Science 'guild', providing 
+Embedded data science teams allow data scientists to build product knowledge and specialization, and keep the data 
+scientists' goals aligned with product goals. Monolithic data science teams enable more standardized workflows and 
+skillsets, and provide Data Scientists with a brain trust of peers. 
+
+A popular approach gets the best of both worlds by hiring Data Scientists into a Data Science 'guild', providing 
 regular Data Science guild meetings, and deploying Data Scientists to different product teams. 
 
 ### Project planning
 
-The most common misconception I've seen is running Data Science teams like Software Engineering teams. While there is
+The most common mistake I've seen is running Data Science teams like Software Engineering teams. While there is
  a lot of overlap, generally software teams are able to define their features and milestones at the start of a 
  project. Data Science projects tend to be less linear, with scope evolving as data quality, research, and model 
  training inform future iterations.  
