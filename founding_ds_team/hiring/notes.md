@@ -23,7 +23,7 @@ Opportunity
 Steps
 
  - Define role(s)
- - Define funnel
+ - Build a funnel
  - Attract talent
    - Organic: Conferences, meetups, blog posts
    - Inorganic: Sources, head hunters, hanging out at Google bus stops
@@ -32,7 +32,6 @@ Steps
 
 Lessons learned
 
- - Augment, not replace
- - Value tribal knowledge
- - Embedded vs monolith
- - Allow for growth and exploration
+ - Diverse backgrounds make for strong teams
+ - Know seasonal flows
+ - Know that DS is different, and plan accordingly
