@@ -2,8 +2,10 @@
 
 ## Audience
 
- - Wildly varying
- - Technical, interested in finding errors 
+Multiple audiences
+ - Familiar w/ DS, not DL
+ - Familiar w/ DL
+ - Interested in ML
 
 ## Goals
 
@@ -23,4 +25,11 @@ Nice to have
  - Get feature requests / community involvement
  - Drive SEO
 
+## Outline
+
+Anecdote
+
+Readme
+
+Next steps
 
