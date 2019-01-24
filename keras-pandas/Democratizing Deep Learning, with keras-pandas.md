@@ -1,12 +1,15 @@
-# Democratizing Deep Learning, with keras-pandas
+# [Democratizing Deep Learning, with keras-pandas](https://www.hergertarian.com/democratizing-deep-learning-with-keras-pandas)
 
-Deep Learning is changing the way we interact technology, and is still an area of active research. While deep 
-learning used to be solely the realm of specialized experts using highly specialized code, the barrier to entry is 
-rapidly falling. It's now possible for traditional data scientists to wring value out of Deep Learning, and Deep Learning experts to 
-have a larger impact by creating code assembly lines (pun intended).
+**tl;dr:** keras-pandas allows users to rapidly build and iterate on deep learning models
+
+Deep Learning is [transforming corporate America](http://fortune.com/ai-artificial-intelligence-deep-machine-learning/), 
+and is still an area of active research. While deep learning used to be solely the realm of specialized experts using 
+highly specialized code, the barrier to entry is rapidly falling. It's now possible for traditional data scientists to 
+wring value out of Deep Learning, and Deep Learning experts to have a larger impact by creating code assembly lines 
+(pun intended).
 
 With this in mind, over the past few years I have written keras-pandas, which allows users to rapidly build and 
-iterate on deep learning models.  
+iterate on deep learning models.
 
 ## About the project
 
@@ -14,11 +17,10 @@ Getting data formatted and into keras can be tedious, time consuming, and requir
 veteran or new to Deep Learning. `keras-pandas` overcomes these issues by (automatically) providing:
 
  - **Data transformations**: A cleaned, transformed and correctly formatted `X` and `y` (good for keras, sklearn or any 
- other ML 
- platform)
- - **Data piping**: Correctly formatted keras input, hidden and output layers to quickly start iterating on  
+ other ML platform)
+ - **Data piping**: A correctly formatted keras input, hidden and output layers to quickly start iterating on  
 
-These approaches are build on best in world approaches from practitioners, kaggle grand masters, papers, blog posts, 
+These approaches are built on best in class approaches from practitioners, kaggle grand masters, papers, blog posts, 
 and coffee chats, to simple entry point into the world of deep learning, and a strong foundation for deep learning 
 experts.  
 
