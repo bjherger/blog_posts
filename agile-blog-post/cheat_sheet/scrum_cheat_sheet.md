@@ -1,23 +1,19 @@
-# Scrum Cheat Sheet
+# Project Management, an engineer's guide
 
-Created by: Brendan Herger
-
-Created: 2017-02-13
-
-Updated: 2017-02-14
-
-**tl;dr:** Scrum is an approach (interface) to allow developers to quickly and efficiently build useful products. It is defined by 
-3 roles, 4 meetings, and 3 artifacts. Implementing this interface has helped many groups to run more efficiently. 
+**tl;dr:** Scrum is an approach (interface) to allow developers to quickly and efficiently build useful products. By 
+following a few roles and meetings, your team can build more quickly and efficiently, without tripping over common 
+project management shortcomings  
 
 ## Intro
 Scrum is a common project management paradigm that allows software engineers to efficiently build software. Similar to 
-building and using a CI/CD framework or micro-service framework, it allows software engineers to pay a bit more upfront 
-to reduce friction and reduce overall work.  
+building and using a CI/CD framework or micro-service framework, it allows software engineers to invest a bit more 
+upfront, and reduce friction and reduce overall work.  
 
 ### Scrum as an interface
-It is an interface, in the Java sense of 
+Scrum is an interface, in the Java sense of 
 [interface](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html), which defines certain roles, 
 meetings and artifacts which a team promises to implement. This interface has been optimized to:
+ 
  - Minimize meeting time
  - Regularize workload
  - Keep projects tightly tied to customer need
