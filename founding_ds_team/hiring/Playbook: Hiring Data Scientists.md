@@ -1,7 +1,7 @@
 # Playbook: Hiring Data Scientists
 
-Data Scientists are a hot commodity, particularly as data changes the way that many companies do business. While it's 
-cooled down since I finished grad school a few years ago, demand still far outstrips supply, and hiring Data 
+Data Scientists are a hot commodity, particularly as data changes the way that many companies do business. While the 
+market cooled down since I finished grad school a few years ago, demand still far outstrips supply, and hiring Data 
 Scientists can be a Herculean task. 
 
 In a previous role, I was fortunate to have lead or supervised over 200 interviews, building a team from 2 to 85 people 
@@ -10,7 +10,7 @@ I've picked up a few things about selecting and supporting Data Science talent.
 
 ## Opportunity
 
-In a [previous post](TODO Add link), we looked at how building a Data Science practice within your company can reduce
+In a [previous post](https://www.thisismetis.com/blog/playbook-how-to-successfully-launch-a-data-science-team), we looked at how building a Data Science practice within your company can reduce
 stagnation risks, and drive the bottom line. However, a big hurdle in that process is attracting (and retaining) Data
 Science talent in a job market that is growing at an unprecedented rate. 
 
@@ -51,6 +51,7 @@ candidates. A common funnel might look like:
  - On site (4-8 interviews, including technical and non-technical interviews)
  - Post-on site (Discuss candidate's feedback and expectations, make offer)
  - First day (balloons- there should really be balloons on everyone's first day)
+ - Retaining talent
  
 In my experience, this process is oddly universal, from 2 person start ups to 40,000 person companies. As you're 
 hiring candidates, make sure to get feedback about pain points, and continue iterating.  
@@ -66,7 +67,16 @@ form email, they'll probably respond to 20 others.
 Instead, I'd recommend focusing on organic leads, like you might find at conferences, speaker's receptions, 
 meetups, and in your rolodex. These folks are less likely to be bombarded with competing offers, and already part of 
 the Data Science community. [Giving away breakfast at bus stops](https://www.sfgate.com/news/article/Bigcommerce-tries-poaching-tech-workers-at-S-F-5378102.php) 
-isn't recommended, but might be effective.  
+isn't recommended, but might be effective. 
+
+Keep in mind that for many data scientsts, work isn't just about pay. Many of my friends and colleagues are looking 
+both for somewhere to pay the bills, and somewhere to grow in their chosen profession. Highlighting competitive time 
+off policies, dedicated moon-shot time, and ongoing training can show talent that you're dedicated to their whole 
+career. 
+
+You should also be purposeful with the seniority levels you aim for. While Data Science unicorns who know everything 
+from research to prod are out there, they are incredibly expensive and incredibly fickle. It may be more efficient to
+ hire junior talent through a recent grad or development program, and train with your company's stack and values. 
 
 ### Interview
 
@@ -93,7 +103,7 @@ finance or government contracting.
 Now that you've got a candidate that you want, you need to land them. Keep in mind that an attractive offer compensation 
 can include pay, equity, mentorship, travel policy, a work-from-home policy, a continuing education budget, and fancy 
 office coffee. Find out what's important to your candidate, and it could make your offer a lot more attractive (and 
-keep payroll lighter). 
+keep payroll lighter).i
 
 ## Lessons Learned
 
