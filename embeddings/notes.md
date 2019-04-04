@@ -19,10 +19,12 @@ One of:
  - What are embeddings?
    - Pretrained
    - Roll your own
- - Compare & Contrast
+ - Different approaches
    - Table
+   - CBOW
    - skipgram
    - word pairs
+   - Glove
    - other
  - Best path forward
- - Suggested reading
+   - Suggested reading
