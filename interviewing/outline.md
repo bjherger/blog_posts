@@ -1,24 +1,29 @@
-# Rocking Data Science Interviews
+# [Rocking Data Science Interviews](https://www.hergertarian.com/rocking-data-science-interviews)
+
+**tl;dr:** A checklist of terms and concepts that commonly come up on DS interviews, and a jumping off point for 
+studying
+
+![](/s/whiteboard.jpg)
 
 Interviews suck. Interviews are an inefficient and biased way to determine evaluate an person's skills and qualities, 
-and data science interviews in particular tend test for wrote memorization. Fortunately, this test covers a relatively 
-small and standardized set of concepts, which makes it easy to brush up, and bring your A-game to an interview.
+and data science interviews in particular tend test for wrote memorization. Fortunately, interviews tend to cover a 
+relatively small and standardized set of concepts, which makes it easy to brush up, and bring your A-game.
 
-Below is an (inexhaustible) list of the concepts I've used to design my own interviews, heard from colleagues, or have 
+Below is an (inexhaustible) list of the concepts I use when leading interviews, heard from colleagues, or have 
 seen in the wild. I won't promise that this will land you your next job, but it should be a good place to start your 
 review.    
 
 ## Machine Learning
 
-Modeling and machine learning is a large domain, with many overlapping and / or esoteric sub-domains. I'd recommend 
-firming up the standard areas, as well as a few specialized areas
+Modeling and machine learning is a large domain, with many overlapping & esoteric sub-domains. I'd recommend 
+firming up the your foundations, as well as a few specialized topics
 
  - Class imbalance: How to deal with classification projects where one or more response classes is rare
  - Classification metrics: How to evaluate classification models when data has class imbalance
  - Anomaly detection: Determining if observations or 'irregular'
  - Time series: Modeling on data sets involving timestamps or snapshots of the same 'item' at different times 
    - Dummy out: Converting timestamps to dummy variables (e.g. day of week, month of year, AM / PM)
-   - ARIMA: Models ocusing on predicting future values from lagged (previous) values of the same variable. 
+   - ARIMA: Models focusing on predicting future values from lagged (previous) values of the same variable. 
    Auto-regressive (previous values) integrated (delta between previous time 
    steps) moving average (previous errors)
    - Proportional hazard (AKA time to live models): Determining how long until an event occurs (e.g. how long until a 
@@ -78,7 +83,7 @@ firming up the standard areas, as well as a few specialized areas
 
 ## Software engineering
 
-The term 'Data Scientist' has many uses in the wild, ranging from purely research positions to software engineering 
+The term 'Data Scientist' has many uses in the wild, ranging from academic research positions to software engineering 
 positions with a dash of data. Regardless of how you define Data Scientist, I'd recommend beefing up your software 
 skills, which can net another $10k-30k in salary.  
 
@@ -107,7 +112,7 @@ skills, which can net another $10k-30k in salary.
 
  - CRUD: The basic operations for a SQL database (create, reade, update, destroy)
  - ACID: Properties of a transactional database that guarantee data validity, even in the face of disaster recovery 
- (atomic, consistent, isolated, durabe) 
+ (atomic, consistent, isolated, durable) 
  - CAP Theorem: Three desirable attributes of a distributed database. You can have, at most, two of three (consistent, available, partition intolerance)
  - First normal form: Cells in a database contain one atomic item (e.g. not lists or sets)
  - Second normal form: No variable is wholly determined by other variables (no redundant columns)
@@ -157,7 +162,7 @@ While interviewing you, folks want to know if you a good person to be around, an
 your true self shine through, and let them know how awesome your are.   
 
  - STAR method: Describing a project or situation from an individual's point of view, emphasizing the situation, task, 
- action and resul
+ action and result
  - Building trust w/ colleagues / direct reports
  - Disagreeing w/ colleagues / direct reports
  - What are you looking for next?
