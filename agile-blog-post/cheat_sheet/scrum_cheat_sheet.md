@@ -1,4 +1,6 @@
-# Project Management, an engineer's guide
+# [Project Management, an engineer's guide](https://www.hergertarian.com/project-management-an-engineers-guide)
+
+![](s/meeting.jpg)
 
 **tl;dr:** Scrum is an approach (interface) to allow developers to quickly and efficiently build useful products. By 
 following a few roles and meetings, your team can build more quickly and efficiently, without tripping over common 
