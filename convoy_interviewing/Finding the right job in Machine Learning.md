@@ -2,6 +2,8 @@
 
 **tl;dr:** My experience preparing for interviewing for, and accepting an ML job, along with some tips and tricks. 
 
+![](/s/startup.jpg)
+
 ## "Idle hands are the devil's playthings"
 
 A few months, I found myself in a tough place. I'd been teaching data machine learning for about a year, and really 
@@ -22,11 +24,11 @@ I'll be honest, there's more knowledge out there about Bayesian statistics, deep
 other things than I'll ever know. It took me a long time to come to terms with that, but once I did, I've found a few 
 areas to focus on while brushing up for interviews:
 
- - **ML algorithms:** [Introduction to Statistical Learning](LINK TODO) is a great reference, and can be paired with 
+ - **ML algorithms:** [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (free PDF) is a great reference, and can be paired with 
  its big brother [Elements of Statistical Learning] for anything than needs a more thorough treatment
- - **SQL:** This is one of those 'use it or loose it' topics, and I've found [HackerRank's SQL quizzes](LINK TODO) a 
+ - **SQL:** This is one of those 'use it or loose it' topics, and I've found [HackerRank's SQL quizzes](https://www.hackerrank.com/domains/sql) a 
  great way to brush up on syntax and get the gears turning again
- - **Deep Learning:** Though this is a rapidly changing field, [The Deep Learning Book](LINK TODO) provides a 
+ - **Deep Learning:** Though this is a rapidly changing field, [The Deep Learning Book](https://www.deeplearningbook.org/) provides a 
  surprisingly lasting foundation, and is a great reference
  - **Cracking the coding interview:** A must for getting used to talking to people about code, and getting comfortable 
  with software engineering interview questions  
@@ -92,5 +94,5 @@ Finally, there are a few helpful bits of advice that I've received that don't qu
 
 Now that you've got an idea of what you're moving towards, the fun part begins. Go out to meet folks, and wow them! 
 
-I'm very happy to say that I've recently joined [Convoy](LINK TODO), where I'm working on transporting the world with endless 
+I'm very happy to say that I've recently joined [Convoy](https://convoy.com/convoy-careers/), where I'm working on transporting the world with endless 
 capacity and zero waste. Feel free to reach out, if you'd like to join me.  
