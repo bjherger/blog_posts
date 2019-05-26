@@ -1,4 +1,4 @@
-# Finding the right job in Machine Learning
+# [Finding the right job in Machine Learning](https://www.hergertarian.com/finding-the-right-job-in-machine-learning)
 
 **tl;dr:** My experience preparing for interviewing for, and accepting an ML job, along with some tips and tricks. 
 
@@ -26,7 +26,7 @@ areas to focus on while brushing up for interviews:
 
  - **ML algorithms:** [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (free PDF) is a great reference, and can be paired with 
  its big brother [Elements of Statistical Learning] for anything than needs a more thorough treatment
- - **SQL:** This is one of those 'use it or loose it' topics, and I've found [HackerRank's SQL quizzes](https://www.hackerrank.com/domains/sql) a 
+ - **SQL:** This is one of those 'use it or lose it' topics, and I've found [HackerRank's SQL quizzes](https://www.hackerrank.com/domains/sql) a 
  great way to brush up on syntax and get the gears turning again
  - **Deep Learning:** Though this is a rapidly changing field, [The Deep Learning Book](https://www.deeplearningbook.org/) provides a 
  surprisingly lasting foundation, and is a great reference
@@ -94,5 +94,5 @@ Finally, there are a few helpful bits of advice that I've received that don't qu
 
 Now that you've got an idea of what you're moving towards, the fun part begins. Go out to meet folks, and wow them! 
 
-I'm very happy to say that I've recently joined [Convoy](https://convoy.com/convoy-careers/), where I'm working on transporting the world with endless 
+I'm very happy to say that I've recently joined [Convoy](https://jobs.lever.co/convoy?lever-via=9xXJpF0Svz), where I'm working on transporting the world with endless 
 capacity and zero waste. Feel free to reach out, if you'd like to join me.  
